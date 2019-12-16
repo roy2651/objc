@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "ffi": "github:lxe/node-ffi#node-12",
-    "ref": "github:lxe/ref#node-12",
+    "ref-napi": "1.4.2",
     "ref-struct": "github:lxe/ref-struct#node-12"
   },
   "devDependencies": {
