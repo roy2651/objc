@@ -1,6 +1,6 @@
 /* eslint-disable camelcase, key-spacing, no-multi-spaces, array-bracket-spacing */
 
-const ffi = require('ffi');
+const ffi = require('ffi-napi');
 const ref = require('ref');
 
 const dlfcn = new ffi.Library(null, {

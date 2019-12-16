@@ -21,7 +21,7 @@
     "runtime"
   ],
   "dependencies": {
-    "ffi": "github:lxe/node-ffi#node-12",
+    "ffi-napi": "^2.4.5",
     "ref-napi": "1.4.2",
     "ref-struct": "github:lxe/ref-struct#node-12"
   },
